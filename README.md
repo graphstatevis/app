@@ -1,6 +1,10 @@
 # GraphStateVis
 
+## Prototype
+
 [![GraphStateVis](https://github.com/GraphStateVis/app/blob/main/figures/graphstatevis_components.png?raw=true)](https://graphstatevis.github.io/app)
+
+## Abstract
 
 The exponentially growing dimension of quantum state space makes fathoming it a challenging endeavor.
 The discrete, finite subspace of graph states provides a pictorial framework accompanied with a theoretical toolkit from the stabilizer formalism at the expense of being limited in its expressiveness. Analyzing hand-drawn graphs is a tedious and time-consuming task and constrains the problem range that can be addressed.
@@ -11,5 +15,7 @@ Our tool facilitates the interactive construction of a graph through multiple co
 The user can explore graph-state-specific properties, including the Pauli weight distribution of its stabilizer operators and noise thresholds for entanglement criteria.
 We illustrate the capabilities of our prototype through an exemplary use case in the context of near-term quantum algorithms. 
 We provide access to GraphStateVis as an open-source project and invite the broader quantum computing and engineering community to modify and tailor the functionality to their needs.
+
+## Description
 
 [GraphStateVis](https://graphstatevis.github.io/app) is an application for the `Interactive Visual Analysis of Qubit Graph States and their Stabilizer Groups`

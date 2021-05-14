@@ -1,6 +1,6 @@
 # GraphStateVis
 
-## Prototype
+## Prototype - Graphical User Interface
 
 [![GraphStateVis](https://github.com/GraphStateVis/app/blob/main/figures/graphstatevis_components.png?raw=true)](https://graphstatevis.github.io/app)
 

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<!-- 
+    The main purpose of the document is to forward to the project. 
+    Currently, it is hosted on UberSpace, but it may be moved in the future, 
+    which is why we use GitHub pages as interconnector in case we change the domain at a later point in time. 
+-->
+<html>
+
+<head>
+    <title>Graph State Visualization</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        // We need to forward the request parameters to the application which include the graph id as parameter `graph`.
+        // For example: https://DMillerIBM.github.io/graphstatevis?graph=12_210C050488A10C225
+        window.location.href = `https://graphvis.uber.space/${window.location.search}`;
+    </script>
+</body>
+
+</html>

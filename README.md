@@ -12,7 +12,7 @@ Fathoming out quantum state space is a challenging endeavor due to its exponenti
 
 [GraphStateVis](https://graphstatevis.github.io/app) is an application for the `Interactive Visual Analysis of Qubit Graph States and their Stabilizer Groups`
 
-## Citing this paper:
+## Citing this paper
 
 ```bibtex
 @inproceedings{miller2021graphstatevis,

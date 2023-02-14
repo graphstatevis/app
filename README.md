@@ -25,3 +25,6 @@ Fathoming out quantum state space is a challenging endeavor due to its exponenti
   doi       = {10.1109/QCE52317.2021.00057}
 }
 ```
+
+## License
+Released under MIT License. See the [LICENSE](LICENSE) file for details. The prototype was developed by Matthias Miller from the [Data Analysis and Visualization Group](https://www.vis.uni-konstanz.de/) at the University Konstanz.
